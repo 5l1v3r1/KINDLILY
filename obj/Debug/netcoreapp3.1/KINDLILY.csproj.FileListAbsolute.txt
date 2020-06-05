@@ -1,0 +1,12 @@
+/Users/amarok/Desktop/git_KINDLILY/KINDLILY/bin/Debug/netcoreapp3.1/KINDLILY.deps.json
+/Users/amarok/Desktop/git_KINDLILY/KINDLILY/bin/Debug/netcoreapp3.1/KINDLILY.runtimeconfig.json
+/Users/amarok/Desktop/git_KINDLILY/KINDLILY/bin/Debug/netcoreapp3.1/KINDLILY.runtimeconfig.dev.json
+/Users/amarok/Desktop/git_KINDLILY/KINDLILY/bin/Debug/netcoreapp3.1/KINDLILY.dll
+/Users/amarok/Desktop/git_KINDLILY/KINDLILY/bin/Debug/netcoreapp3.1/KINDLILY.pdb
+/Users/amarok/Desktop/git_KINDLILY/KINDLILY/obj/Debug/netcoreapp3.1/KINDLILY.csprojAssemblyReference.cache
+/Users/amarok/Desktop/git_KINDLILY/KINDLILY/obj/Debug/netcoreapp3.1/KINDLILY.AssemblyInfoInputs.cache
+/Users/amarok/Desktop/git_KINDLILY/KINDLILY/obj/Debug/netcoreapp3.1/KINDLILY.AssemblyInfo.cs
+/Users/amarok/Desktop/git_KINDLILY/KINDLILY/obj/Debug/netcoreapp3.1/KINDLILY.csproj.CoreCompileInputs.cache
+/Users/amarok/Desktop/git_KINDLILY/KINDLILY/obj/Debug/netcoreapp3.1/KINDLILY.dll
+/Users/amarok/Desktop/git_KINDLILY/KINDLILY/obj/Debug/netcoreapp3.1/KINDLILY.pdb
+/Users/amarok/Desktop/git_KINDLILY/KINDLILY/obj/Debug/netcoreapp3.1/KINDLILY.genruntimeconfig.cache

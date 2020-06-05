@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/amarok/.dotnet/store/|arch|/|tfm|",
+      "/Users/amarok/.nuget/packages"
+    ]
+  }
+}
