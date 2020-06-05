@@ -18,4 +18,4 @@ Million ways to hack a fish
 # Dependencies
 
 Recently started with C#. Eventually plan on making payloads
-that take advante of platform invocation. 
+that take advantagee of platform invocation. 
